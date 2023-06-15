@@ -2,11 +2,11 @@
 ---
 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站
 ---
-
 我们提供了演示站：(https://aibot.sbs) <br/>
 详细功能请移步演示站查看
 欢迎添加我们的微信客服
-https://s1.ax1x.com/2023/06/15/pCKZuPU.jpg
+
+![](https://s1.ax1x.com/2023/06/15/pCKZuPU.jpg)
 
 ---
 ### 当前特色支持功能
