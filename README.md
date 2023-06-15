@@ -5,7 +5,7 @@
 
 预览：https://kdocs.cn/l/caPwPP0XGF7F?f=301
 
-我们提供了演示站：(https://aibot.sbs) <br/>
+我们提供了演示站：https://aibot.sbs
 详细功能请移步演示站查看
 
 欢迎添加我们的微信客服：3076130763
