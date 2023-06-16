@@ -13,10 +13,15 @@
 ---
 当然我们还有可二开的程序：https://baiyun.one
 
-当前售价50，需要注意的是本套源码不包搭建和更新，购买后有详细的视频教程
+当前售价50￥，需要注意的是本套源码不包搭建和更新，购买后有详细的视频教程
 
 欢迎添加我们的微信/QQ客服：3076130763
 ---
+[点击加入群聊获取最新消息](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=92dC2cBtQVF9gM-C7y0Zq0rMDT0Y3KP2&authKey=kA3N%2FDK8OTe3gZB2h%2B%2BFxAk324S4Grbw0%2F8lBvfdNYWuxXgZKVcHsmQKNxs3SEFP&noverify=0&group_code=557457613)
+---
+![](https://i.postimg.cc/SxK41zjt/2-GA-0-GID63-DLHN6-L9-3-O-tmb.jpg)
+---
+
 ### 预览:
 
 ![](https://bhimgs.com/i/2023/06/16/otb584.png)
