@@ -3,15 +3,17 @@
 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站
 ---
 
-预览：https://kdocs.cn/l/caPwPP0XGF7F?f=301
+演示站： [前端](https://aibot.sbs)
 
-我们提供了演示站：https://aibot.sbs  详细功能请移步演示站查看
+演示站： [后端](https://aibot.sbs/nineai/admin/#/login)
+
+账号：admin    密码：123456
 
 388¥出售整套程序，包部署，包更新，未来模块不收费。
-
+---
 当然我们还有可二开的程序：https://baiyun.one
 
-当前售价188，需要注意的是本套源码不包搭建，购买后有详细的视频教程
+当前售价50，需要注意的是本套源码不包搭建和更新，购买后有详细的视频教程
 
 欢迎添加我们的微信客服：3076130763
 
