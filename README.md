@@ -45,8 +45,6 @@ DALL·E2绘画预览:
 
 欢迎添加我们的微信/QQ客服：3076130763丨购买后提供微信售后群
 ---
-[点击加入群聊获取最新消息](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=92dC2cBtQVF9gM-C7y0Zq0rMDT0Y3KP2&authKey=kA3N%2FDK8OTe3gZB2h%2B%2BFxAk324S4Grbw0%2F8lBvfdNYWuxXgZKVcHsmQKNxs3SEFP&noverify=0&group_code=557457613)
----
 
 ### 当前特色支持功能
 - GPT3/4最新模型支持与控制
