@@ -45,7 +45,7 @@ DALL·E2绘画预览:
 
 欢迎使用QQ和我联系：80341079
 ---
-![](https://yanxuan.nosdn.127.net/d3216e8ac2353162b0be10503dde36f3.jpg)
+![](https://i.postimg.cc/65gpfxPq/QQ-20230708145247.jpg)
 
 ### 当前特色支持功能
 - GPT3/4最新模型支持与控制
