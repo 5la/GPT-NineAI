@@ -2,9 +2,9 @@
 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站
 ---
 
-演示站： [前端](https://mybot.cam)
+演示站： [前端](https://ai.jiangly.com)
 
-演示站： [后端](https://mybot.cam/nineai/admin/#/login)
+演示站： [后端](https://ai-admin.jiangly.com)
 
 账号：admin 密码：123456
 
@@ -37,15 +37,15 @@ DALL·E2绘画预览:
 ---
 ![](https://s1.ax1x.com/2023/07/03/pCr3iSH.png)
 
-488¥出售整套程序，包含搭建以及后续更新，未来模块不收费
+478¥出售整套程序，包含搭建以及后续更新，未来模块不收费
 ---
-购买以上源码赠送可二开的源码：https://baiyun.one
+购买以上源码赠送小狐狸2.1.0 免授权版（PC+H5+公众号+小程序）
 
 需要注意的是本套赠送的源码不包搭建和更新（有详细的搭建视频教程）
 
-欢迎使用微信和我联系：3076130763
+欢迎使用QQ和我联系：80341079
 ---
-![](https://i.postimg.cc/hGYqK8J5/20230708141254.png)
+![]([https://i.postimg.cc/hGYqK8J5/20230708141254.png](https://yanxuan.nosdn.127.net/d3216e8ac2353162b0be10503dde36f3.jpg))
 
 ### 当前特色支持功能
 - GPT3/4最新模型支持与控制
